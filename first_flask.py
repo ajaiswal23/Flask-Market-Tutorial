@@ -21,5 +21,5 @@ def market_page():
 '''
 @app.route('/about/<username>') 
 def about_page(username):
-    return f'<p>This is the about page of {username}<p>'
+    return f'<p>This is the about page of {username}<p>' 
 '''
